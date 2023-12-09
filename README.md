@@ -102,11 +102,11 @@ I am passionate about working in frontend web development using React and Tailwi
 ## 2. Your-Dream-Coffee
 
 - **Live Link:** [Your-Dream-Coffee](https://the-dragon-house.web.app/)
-- **Overview:** Secure login, blog management, private routes, responsive design, social integration, performance optimization, themes, wishlist, popular posts, newsletter, commenting.
+- **Overview:** Secure login, blog management, private routes, responsive design, social integration, performance optimization, themes, wishlist, popular posts, newsletter, commenting
 - **Technologies:** CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
 - **Key Features:**
   - \* User can see coffees by category.
-  - \* Dedicated Admin and user dashboard created.
+  - \* Dedicated Admin and user dashboard created
   - \* Versatile search functionality allows users to explore content seamlessly by category or conduct precise searches with titles, offering a comprehensive and efficient content discovery experience within the application.
 - **Repo Link:** 
   - \* [CLIENT SIDE REPO](https://github.com/mahfuzrahman99/Assignment-Eleven-Client-Side)
