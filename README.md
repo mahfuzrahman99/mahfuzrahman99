@@ -1,3 +1,7 @@
+
+
+<img alt="coding" width="900" src="https://i.ibb.co/qDhmjdC/Github-Profile-Banner.png"/>
+
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman Shabbir</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
