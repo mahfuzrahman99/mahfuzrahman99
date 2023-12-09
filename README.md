@@ -54,6 +54,9 @@ I am passionate about working in frontend web development using React and Tailwi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="YOUR_SOCIAL_MEDIA_LINK" target="_blank">
+    <img src="https://www.facebook.com/profile.php?id=100027585996757" alt="Social Media Icon" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
