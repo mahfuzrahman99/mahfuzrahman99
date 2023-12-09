@@ -67,6 +67,9 @@ I am passionate about working in frontend web development using React and Tailwi
   <a href="https://www.facebook.com/profile.php?id=100027585996757" target="_blank">
     <img src="https://image.similarpng.com/very-thumbnail/2021/01/Facebook-icon-design-illustration-on-transparent-background-PNG.png" alt="Social Media Icon" width="40" height="40"/>
   </a>
+  <a href="mahfuzurrahmanshabbir@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/riajulpro/riajulpro/main/assets/email-small.png" alt="Social Media Icon" width="40" height="40"/>
+  </a>
 </p>
 
 # My Streak:
