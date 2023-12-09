@@ -55,21 +55,23 @@ I am passionate about working in frontend web development using React and Tailwi
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zafI0s_9QBmdsLFbArt6VJmXRCOhbjnJ/view](https://drive.google.com/file/d/1zafI0s_9QBmdsLFbArt6VJmXRCOhbjnJ/view)
 
-<div align="center">
+<div align="">
 <h3>Connect with me:</h3>
 <p>
   <a href="https://www.facebook.com/profile.php?id=100027585996757" target="_blank">
     <img src="https://image.similarpng.com/very-thumbnail/2021/01/Facebook-icon-design-illustration-on-transparent-background-PNG.png" alt="Social Media Icon" width="40" height="40"/>
   </a>
 </p>
-</div>
+</div><br>
 
+### My Streak:
+<p><img align="left" height="170" width="900" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p><br>
 
-<p><img align="left" height="170" width="900" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p>
+### Most Used Language:
+<p><img align="left" height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzrahman99&show_icons=true&locale=en&layout=compact" alt="mahfuzrahman99" /></p><br>
 
-<p><img align="left" height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzrahman99&show_icons=true&locale=en&layout=compact" alt="mahfuzrahman99" /></p>
-
-<p>&nbsp;<img align="right" height="170" width="400" src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p>
+### My Stats:
+<p>&nbsp;<img align="right" height="170" width="400" src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p><br>
 
 
 
