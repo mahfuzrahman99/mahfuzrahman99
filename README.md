@@ -101,7 +101,7 @@ I am passionate about working in frontend web development using React and Tailwi
 - **Key Features:**
   - \* User can see coffees by category.
   - \* Dedicated Admin and user dashboard created.
-  - \* Toggle for dark and light mode.
+  - \* Versatile search functionality allows users to explore content seamlessly by category or conduct precise searches with titles, offering a comprehensive and efficient content discovery experience within the application.
 
 ## 3. AUTOMOTIVE CARE
 
