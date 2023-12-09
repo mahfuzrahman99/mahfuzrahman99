@@ -81,34 +81,34 @@ I am passionate about working in frontend web development using React and Tailwi
 
 <p>&nbsp;<img height="190" width="600" src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p><br>
 
-# Projects
+# Project Portfolio
 
-#### 1. CareCampusPro
+## 1. CareCampusPro
 
 - **Live Link:** [CareCampusPro](https://assignment-twelve-c5a2f.web.app/)
 - **Overview:** Secure authentication, notifications, private routes, responsive navigation, social integration, performance optimization, dark mode, calendar, analytics, gamification, reviews, refunds.
 - **Technologies:** CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
-- **Technologies:**
-  -JWT token used for secure API request.
-  -Role-based registration system for personalized access, ensuring tailored user experiences and efficient management of diverse user roles.
-  -Secure payment functionality with encrypted transactions, providing a seamless and trustworthy financial experience for users.
+- **Key Features:**
+  - \* JWT token used for secure API requests.
+  - \* Role-based registration system for personalized access.
+  - \* Secure payment functionality with encrypted transactions.
 
-#### 2. Your-Dream-Coffee
+## 2. Your-Dream-Coffee
 
 - **Live Link:** [Your-Dream-Coffee](https://the-dragon-house.web.app/)
 - **Overview:** Secure login, blog management, private routes, responsive design, social integration, performance optimization, themes, wishlist, popular posts, newsletter, commenting.
 - **Technologies:** CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
 - **Key Features:**
-  -User can see coffees by category
-  -Dedicated Admin and user dashboard created for their
-  -Toggle for dark and Light mood
+  - \* User can see coffees by category.
+  - \* Dedicated Admin and user dashboard created.
+  - \* Toggle for dark and light mode.
 
-#### 3. AUTOMOTIVE CARE
+## 3. AUTOMOTIVE CARE
 
 - **Live Link:** [AUTOMOTIVE CARE](https://assignment-ten-1cb40.web.app/)
 - **Overview:** Secure authentication, detailed product information, user privacy, seamless navigation, social media integration, optimized performance, customizable visual experience with dark and light mode options.
 - **Technologies:** CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
 - **Key Features:**
-  -Toggle for dark and Light mood
-  -User can see cart list and delete it if needed
-  -Firebase Authentication
+  - \* Toggle for dark and light mode.
+  - \* User can view and delete items in the cart.
+  - \* Firebase Authentication.
