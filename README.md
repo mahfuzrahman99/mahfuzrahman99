@@ -61,13 +61,11 @@ I am passionate about working in frontend web development using React and Tailwi
 
 <p><img align="left" height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzrahman99&show_icons=true&locale=en&layout=compact" alt="mahfuzrahman99" /></p>
 
-<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p>
+<p>&nbsp;<img align="right" height="170" width="400" src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p>
+<p><img align="right" height="170" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mahfuzrahman99/langs)](https://githubtrends.io)
-
-<img src="https://api.githubtrends.io/user/svg/mahfuzrahman99/langs" alt="GitHub Trends SVG" height="165"/>
+<img src="https://api.githubtrends.io/user/svg/mahfuzrahman99/langs" alt="GitHub Trends SVG" height="170" width="400"/>
 
 ### Projects
 
