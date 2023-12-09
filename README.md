@@ -6,23 +6,23 @@
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman Shabbir</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
-### About me
+# About me
 
 Greetings! I'm Mahfuzur Rahman Shabbir, a skilled MERN stack developer and front-end specialist. With expertise in crafting visually appealing websites, I excel at translating ideas into interactive web applications. Whether you're a small business building an online presence or a medium-sized enterprise, I'm here to meet your digital needs.
 
-### Introduction
+# Introduction
 
 - **Name:** Mahfuzur Rahman Shabbir
 - **Email:** mahfuzurrahmanshabbir@gmail.com
 - **Phone:** +8801888677322 (WhatsApp)
 
-### Professional Summary
+# Professional Summary
 
 I am a dedicated programmer with over 1 year of experience, proficient in the following technologies:
 
 - CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
 
-### Education
+# Education
 
 - **Degree:** TAKMILUL HADITH (DAWRA)
 - **Institution:** Bangladesh Qawmi Madrasa
@@ -34,7 +34,7 @@ I am a dedicated programmer with over 1 year of experience, proficient in the fo
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### Interests
+# Interests
 
 I am passionate about working in frontend web development using React and Tailwindcss.
 
@@ -64,18 +64,18 @@ I am passionate about working in frontend web development using React and Tailwi
 </p>
 </div><br>
 
-### My Streak:
+# My Streak:
 <p><img align="left" height="170" width="900" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p><br>
 
-### Most Used Language:
+# Most Used Language:
 <p><img align="left" height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzrahman99&show_icons=true&locale=en&layout=compact" alt="mahfuzrahman99" /></p><br>
 
-### My Stats:
+# My Stats:
 <p>&nbsp;<img align="right" height="170" width="400" src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p><br>
 
 
 
-### Projects
+# Projects
 
 #### 1. CareCampusPro
 
@@ -83,7 +83,6 @@ I am passionate about working in frontend web development using React and Tailwi
 - **Overview:** Secure authentication, notifications, private routes, responsive navigation, social integration, performance optimization, dark mode, calendar, analytics, gamification, reviews, refunds.
 - **Technologies:** CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
 
-<img alt="Home Page" src="https://i.ibb.co/SwDb23z/screencapture-assignment-twelve-c5a2f-web-app-2023-12-09-12-48-24.png"/>
 
 #### 2. Your-Dream-Coffee
 
@@ -91,12 +90,9 @@ I am passionate about working in frontend web development using React and Tailwi
 - **Overview:** Secure login, blog management, private routes, responsive design, social integration, performance optimization, themes, wishlist, popular posts, newsletter, commenting.
 - **Technologies:** CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
 
-<img alt="Home Page" src="https://i.ibb.co/Cnbg6kQ/screencapture-the-dragon-house-web-app-2023-12-09-12-58-30.png"/>
 
 #### 3. AUTOMOTIVE CARE
 
 - **Live Link:** [AUTOMOTIVE CARE](https://assignment-ten-1cb40.web.app/)
 - **Overview:** Secure authentication, detailed product information, user privacy, seamless navigation, social media integration, optimized performance, customizable visual experience with dark and light mode options.
 - **Technologies:** CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
-
-<img alt="Home Page" src="https://i.ibb.co/qYhCdqj/screencapture-assignment-ten-1cb40-web-app-2023-12-09-13-00-25.png"/>
