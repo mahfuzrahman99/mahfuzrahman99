@@ -51,6 +51,8 @@ I am a dedicated programmer with over 1 year of experience, proficient in the fo
 
 <p><img width="400" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p>
 
+<div></div>
+
 <img alt="coding" width="900" src="https://i.ibb.co/YjTSgdH/github-wrapped.png"/>
 
 ### Projects
