@@ -52,7 +52,7 @@ I am passionate about working in frontend web development using React and Tailwi
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zafI0s_9QBmdsLFbArt6VJmXRCOhbjnJ/view](https://drive.google.com/file/d/1zafI0s_9QBmdsLFbArt6VJmXRCOhbjnJ/view)
 
-<div align="left">
+<div align="center">
 <h3>Connect with me:</h3>
 <p>
   <a href="https://www.facebook.com/profile.php?id=100027585996757" target="_blank">
