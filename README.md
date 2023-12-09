@@ -93,8 +93,8 @@ I am passionate about working in frontend web development using React and Tailwi
   - \* Role-based registration system for personalized access.
   - \* Secure payment functionality with encrypted transactions.
 - **Repo Link:** 
-  - \* [CLIENT SIDE REPO](https://github.com/mahfuzrahman99/Assignment-Twelve-Server-Side)
-  - \* [SERVER SIDE REPO](https://github.com/mahfuzrahman99/Assignment-Twelve-Client-Side-Repo)
+  - \* [CLIENT SIDE REPO](https://github.com/mahfuzrahman99/Assignment-Twelve-Client-Side-Repo)
+  - \* [SERVER SIDE REPO](https://github.com/mahfuzrahman99/Assignment-Twelve-Server-Side)
 
 ## 2. Your-Dream-Coffee
 
