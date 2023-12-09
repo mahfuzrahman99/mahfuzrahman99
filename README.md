@@ -40,7 +40,7 @@ I am passionate about working in frontend web development using React and Tailwi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzrahman99&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzrahman99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahfuzrahman99" alt="mahfuzrahman99" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahfuzrahman99" alt="mahfuzrahman99" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
