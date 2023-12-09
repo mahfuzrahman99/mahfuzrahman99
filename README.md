@@ -42,7 +42,7 @@ I am passionate about working in frontend web development using React and Tailwi
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahfuzrahman99" alt="mahfuzrahman99" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🔭 I’m currently working on [CareCampusPro](https://assignment-twelve-c5a2f.web.app/)
 
