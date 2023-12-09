@@ -46,10 +46,10 @@ I am a dedicated programmer with over 1 year of experience, proficient in the fo
 
 <div style="display: flex; justify-content: space-between;">
     <div>
-        <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p>
+        <p>&nbsp;<img width="350" align="left"  src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p>
     </div>
     <div>
-        <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p>
+        <p><img width="350" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p>
     </div>
 </div>
 
