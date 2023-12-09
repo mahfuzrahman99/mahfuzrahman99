@@ -30,6 +30,10 @@ I am a dedicated programmer with over 1 year of experience, proficient in the fo
 
 - CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
 
+### Interests
+
+I am passionate about working in frontend web development using React and Tailwindcss.
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzrahman99&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzrahman99" /> </p>
@@ -79,6 +83,3 @@ I am a dedicated programmer with over 1 year of experience, proficient in the fo
 - **Overview:** Secure authentication, detailed product information, user privacy, seamless navigation, social media integration, optimized performance, customizable visual experience with dark and light mode options.
 - **Technologies:** CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
 
-### Interests
-
-I am passionate about working in frontend web development using React and Tailwindcss.
