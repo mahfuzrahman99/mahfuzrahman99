@@ -63,7 +63,9 @@ I am passionate about working in frontend web development using React and Tailwi
 
 <!-- <img alt="coding" width="900" src="https://i.ibb.co/YjTSgdH/github-wrapped.png"/> -->
 
-[![https://www.githubwrapped.io/mahfuzrahman99](https://www.githubwrapped.io/mahfuzrahman99)](https://www.githubwrapped.io/mahfuzrahman99)
+<!-- [![https://www.githubwrapped.io/mahfuzrahman99](https://www.githubwrapped.io/mahfuzrahman99)](https://www.githubwrapped.io) -->
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mahfuzrahman99/langs)](https://githubtrends.io)
 
 ### Projects
 
