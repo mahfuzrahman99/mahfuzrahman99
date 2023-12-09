@@ -59,7 +59,7 @@ I am passionate about working in frontend web development using React and Tailwi
 
 - 📫 How to reach me **mahfuzurrahmanshabbir@gmail.com**
 
-- 📄 Know about my experiences [https://i.ibb.co/sFvtFkf/blue-professional-modern-CV-resume.png](https://i.ibb.co/sFvtFkf/blue-professional-modern-CV-resume.png)
+- 📄 Know about my experiences [https://i.ibb.co/pj0tvKQ/blue-professional-modern-CV-resume-1.png](https://i.ibb.co/pj0tvKQ/blue-professional-modern-CV-resume-1.png)
 
 # Stay in touch with me:
 
