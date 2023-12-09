@@ -92,6 +92,9 @@ I am passionate about working in frontend web development using React and Tailwi
   - \* JWT token used for secure API requests.
   - \* Role-based registration system for personalized access.
   - \* Secure payment functionality with encrypted transactions.
+- **Repo Link:** 
+  - \* [CLIENT SIDE REPO](https://github.com/mahfuzrahman99/Assignment-Twelve-Server-Side)
+  - \* [SERVER SIDE REPO](https://github.com/mahfuzrahman99/Assignment-Twelve-Client-Side-Repo)
 
 ## 2. Your-Dream-Coffee
 
@@ -102,6 +105,9 @@ I am passionate about working in frontend web development using React and Tailwi
   - \* User can see coffees by category.
   - \* Dedicated Admin and user dashboard created.
   - \* Versatile search functionality allows users to explore content seamlessly by category or conduct precise searches with titles, offering a comprehensive and efficient content discovery experience within the application.
+- **Repo Link:** 
+  - \* [CLIENT SIDE REPO](https://github.com/mahfuzrahman99/Assignment-Eleven-Client-Side)
+  - \* [SERVER SIDE REPO](https://github.com/mahfuzrahman99/Assignment-Eleven-Server-Side)
 
 ## 3. AUTOMOTIVE CARE
 
@@ -112,3 +118,6 @@ I am passionate about working in frontend web development using React and Tailwi
   - \* Toggle for dark and light mode.
   - \* User can view and delete items in the cart.
   - \* Firebase Authentication.
+- **Repo Link:** 
+  - \* [CLIENT SIDE REPO](https://github.com/mahfuzrahman99/Assignment-Ten-Client-Side)
+  - \* [SERVER SIDE REPO](https://github.com/mahfuzrahman99/Assignment-Ten-Server-Side)
