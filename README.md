@@ -25,10 +25,10 @@
 
 <div style="display: flex; justify-content: space-between;">
     <div>
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p>
+        <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p>
     </div>
     <div>
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p>
+        <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p>
     </div>
 </div>
 
