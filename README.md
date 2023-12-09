@@ -63,6 +63,8 @@ I am passionate about working in frontend web development using React and Tailwi
 
 <img alt="coding" width="900" src="https://i.ibb.co/YjTSgdH/github-wrapped.png"/>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/auth/redirect?private_access=False&code=07701361d383a4350a4f)](https://githubtrends.io)
+
 ### Projects
 
 #### 1. CareCampusPro
