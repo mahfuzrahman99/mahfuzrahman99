@@ -65,13 +65,13 @@ I am passionate about working in frontend web development using React and Tailwi
 </div><br>
 
 # My Streak:
-<p><img align="left" height="170" width="900" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p><br>
+<p><img height="170" width="900" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p><br>
 
 # Most Used Language:
-<p><img align="left" height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzrahman99&show_icons=true&locale=en&layout=compact" alt="mahfuzrahman99" /></p><br>
+<p><img  height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzrahman99&show_icons=true&locale=en&layout=compact" alt="mahfuzrahman99" /></p><br>
 
 # My Stats:
-<p>&nbsp;<img align="right" height="170" width="400" src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p><br>
+<p>&nbsp;<img height="170" width="400" src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p><br>
 
 
 
