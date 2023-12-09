@@ -32,7 +32,7 @@
     </div>
 </div>
 
-<img align="right" alt="coding" width="700" src="https://i.ibb.co/YjTSgdH/github-wrapped.png"/>
+<img align="right" alt="coding" width="900" src="https://i.ibb.co/YjTSgdH/github-wrapped.png"/>
 
 
 
