@@ -63,9 +63,9 @@ I am passionate about working in frontend web development using React and Tailwi
 
 <p>&nbsp;<img align="right" height="170" width="400" src="https://github-readme-stats.vercel.app/api?username=mahfuzrahman99&show_icons=true&locale=en" alt="mahfuzrahman99" /></p>
 
-<p><img align="left" height="170" width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p>
+<p><img align="left" height="170" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzrahman99&" alt="mahfuzrahman99" /></p>
 
-<img src="https://api.githubtrends.io/user/svg/mahfuzrahman99/langs" align="right" alt="GitHub Trends SVG" height="170" width="300"/>
+<img src="https://api.githubtrends.io/user/svg/mahfuzrahman99/langs" align="right" alt="GitHub Trends SVG" width="300"/>
 
 ### Projects
 
