@@ -65,10 +65,10 @@ I am passionate about working in frontend web development using React and Tailwi
 
 <p>
   <a href="https://www.facebook.com/profile.php?id=100027585996757" target="_blank">
-    <img src="https://i.ibb.co/9n8JYft/download-removebg-preview.png" alt="Social Media Icon" width="40" height="40"/>
+    <img src="https://i.ibb.co/9n8JYft/download-removebg-preview.png" alt="Social Media Icon" width="60" height="40"/>
   </a>
   <a href="mailto:mahfuzurrahmanshabbir@gmail.com" target="_blank">
-    <img src="https://i.ibb.co/g78K1rj/images-removebg-preview.png" alt="Social Media Icon" width="40" height="40"/>
+    <img src="https://i.ibb.co/g78K1rj/images-removebg-preview.png" alt="Social Media Icon" width="60" height="40"/>
   </a>
 </p>
 
