@@ -43,7 +43,13 @@ I am passionate about working in frontend web development using React and Tailwi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzrahman99&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzrahman99" /> </p>
 
-- 🔭 I’m currently working on Next.js mongos
+# 🔭 I’m currently working on  <p>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="20" height="20"/> </a>
+
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> </a>
+</p>
 
 - 🌱 I’m currently learning **With Programming hero**
 
@@ -55,7 +61,7 @@ I am passionate about working in frontend web development using React and Tailwi
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zafI0s_9QBmdsLFbArt6VJmXRCOhbjnJ/view](https://drive.google.com/file/d/1zafI0s_9QBmdsLFbArt6VJmXRCOhbjnJ/view)
 
-# Connect with me:
+# Stay in touch with me:
 <p>
   <a href="https://www.facebook.com/profile.php?id=100027585996757" target="_blank">
     <img src="https://image.similarpng.com/very-thumbnail/2021/01/Facebook-icon-design-illustration-on-transparent-background-PNG.png" alt="Social Media Icon" width="40" height="40"/>
