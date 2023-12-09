@@ -6,6 +6,10 @@
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman Shabbir</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
+### About me
+
+Greetings! I'm Mahfuzur Rahman Shabbir, a skilled MERN stack developer and front-end specialist. With expertise in crafting visually appealing websites, I excel at translating ideas into interactive web applications. Whether you're a small business building an online presence or a medium-sized enterprise, I'm here to meet your digital needs.
+
 ### Introduction
 
 - **Name:** Mahfuzur Rahman Shabbir
@@ -40,7 +44,7 @@ I am passionate about working in frontend web development using React and Tailwi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzrahman99&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzrahman99" /> </p>
 
-- 🔭 I’m currently working on [CareCampusPro](https://assignment-twelve-c5a2f.web.app/)
+- 🔭 I’m currently working on Next.js mongos
 
 - 🌱 I’m currently learning **With Programming hero**
 
@@ -80,11 +84,15 @@ I am passionate about working in frontend web development using React and Tailwi
 - **Overview:** Secure authentication, notifications, private routes, responsive navigation, social integration, performance optimization, dark mode, calendar, analytics, gamification, reviews, refunds.
 - **Technologies:** CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
 
+<img alt="Home Page" src="https://i.ibb.co/SwDb23z/screencapture-assignment-twelve-c5a2f-web-app-2023-12-09-12-48-24.png"/>
+
 #### 2. Your-Dream-Coffee
 
 - **Live Link:** [Your-Dream-Coffee](https://the-dragon-house.web.app/)
 - **Overview:** Secure login, blog management, private routes, responsive design, social integration, performance optimization, themes, wishlist, popular posts, newsletter, commenting.
 - **Technologies:** CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
+
+<img alt="Home Page" src="https://i.ibb.co/Cnbg6kQ/screencapture-the-dragon-house-web-app-2023-12-09-12-58-30.png"/>
 
 #### 3. AUTOMOTIVE CARE
 
@@ -92,3 +100,4 @@ I am passionate about working in frontend web development using React and Tailwi
 - **Overview:** Secure authentication, detailed product information, user privacy, seamless navigation, social media integration, optimized performance, customizable visual experience with dark and light mode options.
 - **Technologies:** CSS, HTML, Tailwindcss, Javascript, React, Node.js, Express, MongoDB
 
+<img alt="Home Page" src="https://i.ibb.co/qYhCdqj/screencapture-assignment-ten-1cb40-web-app-2023-12-09-13-00-25.png"/>
