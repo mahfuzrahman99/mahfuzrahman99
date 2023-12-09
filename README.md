@@ -43,7 +43,8 @@ I am passionate about working in frontend web development using React and Tailwi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzrahman99&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzrahman99" /> </p>
 
-# 🔭 I’m currently working on  <p>
+# 🔭 I’m currently working on  
+<p  align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="20" height="20"/> </a>
