@@ -1,4 +1,5 @@
-<img alt="coding" width="900" src="https://i.ibb.co/qDhmjdC/Github-Profile-Banner.png"/>
+<!-- <img alt="coding" width="900" src="https://i.ibb.co/qDhmjdC/Github-Profile-Banner.png"/> -->
+<img alt="coding" width="900" src="https://i.ibb.co/FYDBx9C/Navy-And-White-Geometric-Technology-Linked-In-Banner.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman Shabbir</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
