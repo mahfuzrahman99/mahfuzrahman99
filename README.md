@@ -54,7 +54,8 @@ I am passionate about working in frontend web development using React and Tailwi
 
 - 🌱 I’m currently learning **With Programming hero**
 
-- 👨‍💻 All of my projects are available at [Explore My Portfolio](https://github.com/mahfuzrahman99?tab=repositories)
+- 👨‍💻 All of my projects are available at [Explore My All Projects](https://github.com/mahfuzrahman99?tab=repositories)
+- 👨‍💻 All of my projects are available at [Explore My Portfolio Website](https://portfolio-of-mahfuz-99.surge.sh/)
 
 - 💬 Ask me about **react, Tailwindcss**
 
@@ -72,6 +73,9 @@ I am passionate about working in frontend web development using React and Tailwi
   </a>
   <a href="mailto:mahfuzurrahmanshabbir@gmail.com" target="_blank">
     <img src="https://i.ibb.co/g78K1rj/images-removebg-preview.png" alt="Social Media Icon" width="50" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahfuzur-rahman-shabbir-0496752a4/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/LinkedIn.svg" alt="Social Media Icon" width="50" height="40"/>
   </a>
 </p>
 
