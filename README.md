@@ -70,7 +70,7 @@ I am passionate about working in frontend web development using React and Tailwi
     <img src="https://i.ibb.co/9n8JYft/download-removebg-preview.png" alt="Social Media Icon" width="80" height="40"/>
   </a>
   <a href="mailto:mahfuzurrahmanshabbir@gmail.com" target="_blank">
-    <img src="https://i.ibb.co/g78K1rj/images-removebg-preview.png" alt="Social Media Icon" width="40" height="30"/>
+    <img src="https://i.ibb.co/g78K1rj/images-removebg-preview.png" alt="Social Media Icon" width="45" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/mahfuzur-rahman-shabbir-0496752a4/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/LinkedIn.svg" alt="Social Media Icon" width="50" height="40"/>
